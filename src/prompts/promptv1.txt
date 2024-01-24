@@ -1,0 +1,15 @@
+Extract the following details from the given resume:
+
+1. Name
+2. Email
+3. Phone number
+4. Address
+5. Summary
+6. Technical Skills (Frontend, Backend, Database, Mobile Development)
+7. Work Experience (Position, Company, Duration, Responsibilities)
+8. Projects (Name, Tech Stack, Duration, Project Link, Description)
+9. Education (Degree, Institution, CGPA, Year)
+10. Achievements
+11. Links (LinkedIn, Codechef, Codeforces, Linktree)
+
+Please provide a resume or relevant text containing the information.
