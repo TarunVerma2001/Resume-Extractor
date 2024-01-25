@@ -1,5 +1,8 @@
+// import { View } from "@react-pdf/renderer";
+
 import React, { useState } from "react";
-import { Document, Page, pdfjs } from "react-pdf";
+
+import { pdfjs } from "react-pdf";
 
 const PdfToJsonConverter = () => {
   const [numPages, setNumPages] = useState(null);
